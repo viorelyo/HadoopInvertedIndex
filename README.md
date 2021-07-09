@@ -1,5 +1,5 @@
 # HadoopInvertedIndex
-Inverted index for a book repository implemented using Hadoop Map-Reduce.
+:elephant: Inverted index for a book repository implemented using Hadoop Map-Reduce.
 
 ### Features
 * The inverted index contains for each distinct unique word, a list of files containing the given word with its location within the file (line number). 
