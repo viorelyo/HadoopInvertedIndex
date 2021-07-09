@@ -20,3 +20,8 @@
 ### Map-Reduce Implementation
 * **Method 1** uses a `FilePreprocessor` for adding the line numbers in the book repository.
 * **Method 2** uses the `LineJob` which computes the line numbers based on the offset.
+
+### Contributors
+* [cherryDevBomb](https://github.com/cherryDevBomb)
+* [viorelyo](https://github.com/viorelyo)
+* [AlexandruCiorba](https://github.com/AlexandruCiorba)
